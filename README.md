@@ -68,21 +68,36 @@ Major drawback of using the VGG19 Network was the amount of time it took to trai
 
 ## References:
 [0] https://www.businessinsider.com/youtube-user-statistics-2018-5
+
 [1] https://www.tubefilter.com/2019/05/07/number-hours-video-uploaded-to-youtube-per-minute/
+
 [2] https://en.wikipedia.org/wiki/List_of_most_popular_websites 
+
 [3] https://en.wikipedia.org/wiki/YouTube
+
 [4] https://www.youtube.com/feed/trending
+
 [5] https://www.cbsnews.com/news/top-10-highest-paid-youtube-stars-of-2018-forbes/
+
 [6] https://en.wikipedia.org/wiki/Google_AdSense
+
 [7] https://support.google.com/youtube/answer/7239739?hl=en
+
 [8] https://www.kaggle.com/datasnaek/youtube-new
+
 [9] https://en.wikipedia.org/wiki/Self-organizing_map
+
 [10] https://en.wikipedia.org/wiki/Gabor_filter
+
 [11] https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
 [12] https://www.tensorflow.org/tutorials/keras/regression
+
 [13] https://www.cs.toronto.edu/~frossard/post/vgg16/
+
 [14] https://arxiv.org/pdf/1409.1556.pdf
+
 [15] Dong, Yuxiao, et al. “Will This Paper Increase Your h-index? Scientific Impact Prediction” 
 Johnson, Reid A., Chawla, Nitesh V., Proc. of the 8th ACM International Conference on Web Search and Data Mining (WSDM'15) https://arxiv.org/abs/1412.4754
-[16] CS6140 Machine Learning Class Resources
 
+[16] CS6140 Machine Learning Class Resources
