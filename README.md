@@ -15,7 +15,7 @@ Our objective for this project is to provide YouTube content creators with a det
 ## Install
 1. clone the repository above
 2. install the dependencies
-3. launch Jupyter notebooks
+3. launch Jupyter notebook
 4. Run the notebook
 
 ## References:
