@@ -1,4 +1,4 @@
-# Pattern Recognition in Daily Top Trending YouTube Videos
+# Visualizing Similarities in YouTube Videos using Deep Unsupervised Learning & NLP
 
 - Nathaniel Haddad haddad.na@northeastern.edu
 - Winston Moh Tangongho mohtangongho.w@northeastern.edu
