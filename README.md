@@ -8,7 +8,7 @@
 ---
 
 ## Abstract:
-Our objective for this project is to provide YouTube content creators with a detailed trend analysis and probabilistic interpretation of what makes a top trending video on the platform in order to maximize the reach and quality of creator content. In this report, we will discuss our initial exploratory data analysis (EDA) of the dataset, and three experiments using the metadata of daily top trending videos on YouTube. These experiments include learning and evaluating word embeddings using word2vec, two semi-supervised learning classification sub-experiments using natural language processing, and analysis of video thumbnails using unsupervised machine learning and computer vision. Our goal is to provide insight into what daily top trending YouTube videos have in common, dig into the details of what types of attributes have the greatest impact making predictions about different attributes, and discover new relationships in the data about content.
+Our objective for this project is to provide YouTube content creators with a detailed trend analysis and probabilistic interpretation of what makes a top trending video on the platform in order to maximize the reach and quality of creator content. To do so, we performed a number of small experiments including learning word embeddings and examining linear relationships in comments, titles, and descriptions in YouTube videos using word2vec neural networks. A second experiment uses an randomly initialized VGG-19 neural network in a self-organizing map as part of a detailed analysis of video thumbnails. We also performed a number of other small tasks, and learned a lot along the way!
 
 [Email for full Report](<mailto:haddad.na@northeastern.edu>)
 
