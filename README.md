@@ -1,4 +1,4 @@
-# Visualizing Similarities in YouTube Videos using Deep Unsupervised CV & NLP
+# Visualizing Similarities in YouTube Videos using CV & NLP
 
 - Nathaniel Haddad haddad.na@northeastern.edu
 - Winston Moh Tangongho mohtangongho.w@northeastern.edu
